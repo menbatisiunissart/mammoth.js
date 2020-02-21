@@ -24,6 +24,7 @@
     "path-is-absolute": "^1.0.0",
     "sax": "~1.1.1",
     "underscore": "~1.8.3",
+    "uuid": "^3.4.0",
     "xmlbuilder": "^10.0.0"
   },
   "devDependencies": {
